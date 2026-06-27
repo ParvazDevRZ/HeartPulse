@@ -95,8 +95,3 @@ This project was developed to practice and demonstrate concepts related to:
 - Audio synchronization with heartbeat
 - Multiple visual themes
 
----
-
-## License
-
-This project is released under the MIT License.
